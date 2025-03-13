@@ -8,9 +8,9 @@ Bem-vindo ao Jogo do Número Secreto! Neste jogo, você deve adivinhar o número
 ✅ Nova partida: Após acertar o número, você pode reiniciar o jogo e tentar novamente.
 
 ## 🛠️ Tecnologias Utilizadas
-HTML5: Estrutura do jogo.
-CSS3: Estilização e responsividade.
-JavaScript: Lógica de manipulação de tentativas e geração do número secreto.
+- HTML5: Estrutura do jogo.
+- CSS3: Estilização e responsividade.
+- JavaScript: Lógica de manipulação de tentativas e geração do número secreto.
 
 ## 🎮 Como Usar:
 1. Clone o repositório:
